@@ -1,0 +1,5 @@
+{
+  "chromeDriverPath" : "/usr7/ec/bin/chromedriver",
+  "filePath" : "/webapp/headless/data/"
+}
+
